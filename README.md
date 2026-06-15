@@ -7,7 +7,6 @@ I learn fast by building, and I care that what I ship actually works — not jus
 
 - Portfolio — **https://roger-llinares.vercel.app**
 - Email — roger.llinares@estudiantat.upc.edu
-- LinkedIn — _<!-- TODO: pega aquí tu URL de LinkedIn -->_
 
 ---
 
