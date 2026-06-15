@@ -6,6 +6,7 @@ I build web products end to end: bespoke landing pages, full-stack web apps, and
 I learn fast by building, and I care that what I ship actually works — not just in the demo.
 
 - Portfolio — **https://roger-llinares.vercel.app**
+- LinkedIn — **https://www.linkedin.com/in/roger-llinares-raichs**
 - Email — roger.llinares@estudiantat.upc.edu
 
 ---
