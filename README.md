@@ -1,6 +1,6 @@
 ## Roger Llinares
 
-**Web developer & software engineer** — Barcelona · available September 2026
+**Web developer & software engineer** — Barcelona
 
 I build web products end to end: bespoke landing pages, full-stack web apps, and real-time software.
 I learn fast by building, and I care that what I ship actually works — not just in the demo.
@@ -27,4 +27,4 @@ I learn fast by building, and I care that what I ship actually works — not jus
 - **Embedded & real-time** — ESP32 · QNX Neutrino (POSIX threads, sockets)
 - **Tooling** — Docker · Git · GitHub Actions · Vercel
 
-<sub>Currently a software intern · open to web & software engineering roles from September 2026.</sub>
+<sub>Open to software engineering roles and internships.</sub>
