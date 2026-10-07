@@ -1,8 +1,8 @@
 ## Roger Llinares
 
-**Web developer & software engineer** — Barcelona
+**Industrial Electronics & Automation Engineering student (UPC)** — software, automation & AI · Barcelona
 
-I build web products end to end: bespoke landing pages, full-stack web apps, and real-time software.
+I build software end to end: real-time C on robots running QNX, full-stack web apps, and data pipelines.
 I learn fast by building, and I care that what I ship actually works — not just in the demo.
 
 - Portfolio — **https://roger-llinares.vercel.app**
