@@ -21,9 +21,10 @@ I learn fast by building, and I care that what I ship actually works — not jus
 
 ### Stack
 
-**Web** HTML · CSS · Motion · React · TypeScript · Node
-**Backend** Kotlin · Spring Boot · Python · FastAPI · PostgreSQL
-**Systems** Go · C · QNX (real-time)
-**Tooling** Docker · Git · Vercel · CI (GitHub Actions)
+- **Languages** — C · TypeScript · Python · SQL
+- **Web** — React · Next.js · Node · HTML · CSS · Motion
+- **Backend & data** — FastAPI · PostgreSQL · Supabase · Kotlin + Spring Boot (basics)
+- **Embedded & real-time** — ESP32 · QNX Neutrino (POSIX threads, sockets)
+- **Tooling** — Docker · Git · GitHub Actions · Vercel
 
 <sub>Currently a software intern · open to web & software engineering roles from September 2026.</sub>
